@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-folder>
+   cd <Busy-buy-Project-main>
    ```
 
 3. Install dependencies:
