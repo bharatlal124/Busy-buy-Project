@@ -67,6 +67,15 @@ The app is deployed on Netlify. To deploy your own version:
 2. Deploy the `build` folder to Netlify.
 
 ## Screenshots
-_Add screenshots of your app here to showcase its features._
+
+![Screenshot 2025-01-13 134121](https://github.com/user-attachments/assets/8a2d25ea-bf87-4378-ae3b-b3e78201d757)
+
+![Screenshot 2025-01-13 134114](https://github.com/user-attachments/assets/80009442-c4af-48f9-bd14-81c8762c151f)
+
+![Screenshot 2025-01-13 134151](https://github.com/user-attachments/assets/82c6d957-cd07-4f5c-a6b3-b8b1952353df)
+
+![Screenshot 2025-01-13 134157](https://github.com/user-attachments/assets/228215b8-a9e7-4e86-ac49-41d0a17baa75)
+
+
 
  
