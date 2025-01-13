@@ -69,14 +69,4 @@ The app is deployed on Netlify. To deploy your own version:
 ## Screenshots
 _Add screenshots of your app here to showcase its features._
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Contributing
-Contributions are welcome! If you have ideas or find issues, feel free to open a pull request or issue.
-
-## Contact
-If you have any questions or suggestions, feel free to contact me:
-- **Email**: krvivi28@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
+ 
